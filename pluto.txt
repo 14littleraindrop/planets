@@ -1,7 +1,5 @@
 It is so a planet!
 It's pretty~~~
-<<<<<<< HEAD
 Goint to Pluto!
-=======
 No it's not, it's ugly
->>>>>>> 46a849bfb63c2109f21f48331942b5661cb33792
+
